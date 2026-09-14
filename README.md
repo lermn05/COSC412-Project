@@ -1,2 +1,3 @@
 # COSC412-Project 
-Nick Lerman, Jaimie Tiongson, Matt Pollock, Sujan Rai
+Members: Nick Lerman, Jaimie Tiongson, Matt Pollock, Sujan Rai
+Team Name:
